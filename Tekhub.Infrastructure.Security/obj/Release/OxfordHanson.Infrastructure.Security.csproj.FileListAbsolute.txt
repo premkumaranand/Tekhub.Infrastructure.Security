@@ -1,0 +1,4 @@
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\Release\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\Release\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\Release\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\Release\OxfordHanson.Infrastructure.Security.pdb

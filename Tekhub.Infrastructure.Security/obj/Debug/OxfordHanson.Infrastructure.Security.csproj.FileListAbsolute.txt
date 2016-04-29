@@ -1,0 +1,9 @@
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\Debug\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\Debug\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\Debug\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\Debug\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\bin\Debug\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\bin\Debug\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\OxfordHanson.Infrastructure.Security.csprojResolveAssemblyReference.cache

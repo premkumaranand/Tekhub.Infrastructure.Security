@@ -1,0 +1,11 @@
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\bin\Debug\Tekhub.Infrastructure.Security.dll
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\bin\Debug\Tekhub.Infrastructure.Security.pdb
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.csprojResolveAssemblyReference.cache
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.dll
+C:\Repos\Tekhub.Infrastructure.Security\OxfordHanson.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.pdb
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\bin\Debug\Tekhub.Infrastructure.Security.45.dll
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\bin\Debug\Tekhub.Infrastructure.Security.45.pdb
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.csprojResolveAssemblyReference.cache
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.45.dll
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\obj\Debug\Tekhub.Infrastructure.Security.45.pdb
+C:\Repos\Tekhub.Infrastructure.Security\Tekhub.Infrastructure.Security\bin\Debug\Tekhub.Framework.45.dll

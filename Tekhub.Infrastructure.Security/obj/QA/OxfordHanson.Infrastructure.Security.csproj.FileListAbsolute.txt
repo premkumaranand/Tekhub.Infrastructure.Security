@@ -1,0 +1,5 @@
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\QA\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\bin\QA\OxfordHanson.Infrastructure.Security.pdb
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\QA\OxfordHanson.Infrastructure.Security.csprojResolveAssemblyReference.cache
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\QA\OxfordHanson.Infrastructure.Security.dll
+C:\Repos\OxfordHanson\OxfordHanson\OxfordHanson.Infrastructure.Security\obj\QA\OxfordHanson.Infrastructure.Security.pdb
